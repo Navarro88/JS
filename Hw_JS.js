@@ -26,9 +26,9 @@ let item_7_type = typeof(item_7)
 console.log("item_7 ==", item_7)
 console.log("item_7_type ==", item_7_type)
 
-let age_1 = 16
-let age_2 = 11
-let age_3 = 22
+let age_1 = 10
+let age_2 = 18
+let age_3 = 60
 
 if(age_1 < age_2)
 console.log("You don’t have access cause your age is " + age_1 + " It’s less then")
